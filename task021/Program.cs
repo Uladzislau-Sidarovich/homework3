@@ -4,7 +4,7 @@ Console.Write("Введите координату Y1: ");
 int y1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите координату Z1: ");
 int z1 = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите координату Z2: ");
+Console.Write("Введите координату X2: ");
 int x2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите координату Y2: ");
 int y2 = Convert.ToInt32(Console.ReadLine());
